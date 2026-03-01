@@ -4,7 +4,7 @@ const { body, param, query, validationResult } = require("express-validator");
 
 const app = express();
 const PORT = 3000;
-const SECRET_KEY = "mysecretkey123";
+const SECRET_KEY = "danielpius1909";
 
 app.use(bodyParser.json());
 
